@@ -1,0 +1,345 @@
+2025-10-14 21:57:55,016 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-10-14 21:57:55,017 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2025-10-14 21:57:55,017 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-10-14 21:58:14,898 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 21:58:14,915 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Molins de Rei', 'Numero': '1', 'TipoVia': 'CL', 'NombreVia': 'Ignasi Iglesias'}
+2025-10-14 21:58:15,103 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Molins+de+Rei&Numero=1&TipoVia=CL&NombreVia=Ignasi+Iglesias "HTTP/1.1 200 OK"
+2025-10-14 21:58:22,283 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 21:58:22,288 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Molins de Rei', 'Numero': '1', 'NombreVia': 'Ignasi Iglesias'}
+2025-10-14 21:58:22,356 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Molins+de+Rei&Numero=1&NombreVia=Ignasi+Iglesias "HTTP/1.1 200 OK"
+2025-10-14 21:58:50,520 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 21:58:50,530 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Molins de Rei', 'Numero': '1', 'TipoVia': 'CL', 'NombreVia': 'Ignasi Iglesias'}
+2025-10-14 21:58:50,647 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Molins+de+Rei&Numero=1&TipoVia=CL&NombreVia=Ignasi+Iglesias "HTTP/1.1 200 OK"
+2025-10-14 21:59:01,041 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 21:59:01,054 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Molins de Rei', 'Numero': '1', 'TipoVia': 'CL', 'NombreVia': 'Ignacio Iglesias'}
+2025-10-14 21:59:01,136 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Molins+de+Rei&Numero=1&TipoVia=CL&NombreVia=Ignacio+Iglesias "HTTP/1.1 200 OK"
+2025-10-14 22:00:45,399 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:00:45,409 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Molins de Rei', 'Numero': '3', 'TipoVia': 'CL', 'NombreVia': 'Ignasi Iglesias'}
+2025-10-14 22:00:45,536 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Molins+de+Rei&Numero=3&TipoVia=CL&NombreVia=Ignasi+Iglesias "HTTP/1.1 200 OK"
+2025-10-14 22:00:49,749 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:00:49,759 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Molins de Rei', 'TipoVia': 'CL', 'NombreVia': 'Ignasi Iglesias'}
+2025-10-14 22:00:49,835 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Molins+de+Rei&TipoVia=CL&NombreVia=Ignasi+Iglesias "HTTP/1.1 200 OK"
+2025-10-14 22:01:13,917 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:01:13,927 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPRC con parámetros: {'RefCat': '7952405DF1875B'}
+2025-10-14 22:01:14,275 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPRC?RefCat=7952405DF1875B "HTTP/1.1 200 OK"
+2025-10-14 22:04:09,763 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-10-14 22:04:09,764 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2025-10-14 22:04:09,764 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-10-14 22:04:15,833 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:04:15,839 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPRC con parámetros: {'RefCat': '7952405DF1875B'}
+2025-10-14 22:04:16,202 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPRC?RefCat=7952405DF1875B "HTTP/1.1 200 OK"
+2025-10-14 22:04:16,202 - __main__ - INFO - Respuesta XML (primeros 1000 caracteres): <?xml version="1.0" encoding="utf-8"?><consulta_dnp xmlns="http://www.catastro.meh.es/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><control><cudnp>1</cudnp><cucons>6</cucons><cucul>0</cucul></control><bico><bi><idbi><cn>UR</cn><rc><pc1>7952405</pc1><pc2>DF1875B</pc2><car>0001</car><cc1>D</cc1><cc2>R</cc2></rc></idbi><dt><loine><cp>08</cp><cm>123</cm></loine><cmc>122</cmc><np>BARCELONA</np><nm>MOLINS DE REI</nm><locs><lous><lourb><dir><cv>2</cv><tv>CL</tv><nv>MAJOR</nv><pnp>76</pnp><snp>0</snp></dir><loint><es>T</es><pt>OD</pt><pu>OS</pu></loint><dp>08750</dp><dm>1</dm></lourb></lous></locs></dt><ldt>CL MAJOR 76 08750 MOLINS DE REI (BARCELONA)</ldt><debi><luso>Residencial</luso><sfc>660</sfc><cpt>100,000000</cpt><ant>1918</ant></debi></bi><lcons><cons><lcd>COMERCIO</lcd><dt><lourb><loint><es>1</es><pt>00</pt><pu>01</pu></loint></lourb></dt><dfcons><stl>74</stl></dfcons><dvcons><dtip>COMERCIO</dtip></dvcons></cons><cons><lcd>ALMACEN
+2025-10-14 22:06:15,731 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-10-14 22:06:15,732 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2025-10-14 22:06:15,732 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-10-14 22:06:21,938 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:06:21,943 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPRC con parámetros: {'RefCat': '7952405DF1875B'}
+2025-10-14 22:06:22,099 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPRC?RefCat=7952405DF1875B "HTTP/1.1 200 OK"
+2025-10-14 22:06:22,099 - __main__ - INFO - Respuesta XML (primeros 1000 caracteres): <?xml version="1.0" encoding="utf-8"?><consulta_dnp xmlns="http://www.catastro.meh.es/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><control><cudnp>1</cudnp><cucons>6</cucons><cucul>0</cucul></control><bico><bi><idbi><cn>UR</cn><rc><pc1>7952405</pc1><pc2>DF1875B</pc2><car>0001</car><cc1>D</cc1><cc2>R</cc2></rc></idbi><dt><loine><cp>08</cp><cm>123</cm></loine><cmc>122</cmc><np>BARCELONA</np><nm>MOLINS DE REI</nm><locs><lous><lourb><dir><cv>2</cv><tv>CL</tv><nv>MAJOR</nv><pnp>76</pnp><snp>0</snp></dir><loint><es>T</es><pt>OD</pt><pu>OS</pu></loint><dp>08750</dp><dm>1</dm></lourb></lous></locs></dt><ldt>CL MAJOR 76 08750 MOLINS DE REI (BARCELONA)</ldt><debi><luso>Residencial</luso><sfc>660</sfc><cpt>100,000000</cpt><ant>1918</ant></debi></bi><lcons><cons><lcd>COMERCIO</lcd><dt><lourb><loint><es>1</es><pt>00</pt><pu>01</pu></loint></lourb></dt><dfcons><stl>74</stl></dfcons><dvcons><dtip>COMERCIO</dtip></dvcons></cons><cons><lcd>ALMACEN
+2025-10-14 22:06:22,101 - __main__ - ERROR - Error inesperado: could not convert string to float: '100,000000'
+Traceback (most recent call last):
+  File "/Users/omar/Documents/GitHub/Catastro-MCP/catastro_mcp.py", line 469, in consulta_datos_catastro
+    resultado["inmueble"] = parse_inmueble_completo(bi)
+                            ~~~~~~~~~~~~~~~~~~~~~~~^^^^
+  File "/Users/omar/Documents/GitHub/Catastro-MCP/catastro_mcp.py", line 128, in parse_inmueble_completo
+    inmueble["coef_participacion"] = float(cpt.text) if cpt is not None and cpt.text else None
+                                     ~~~~~^^^^^^^^^^
+ValueError: could not convert string to float: '100,000000'
+2025-10-14 22:09:16,516 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-10-14 22:09:16,517 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2025-10-14 22:09:16,517 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-10-14 22:09:22,871 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:09:22,879 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPRC con parámetros: {'RefCat': '7952405DF1875B'}
+2025-10-14 22:09:23,030 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPRC?RefCat=7952405DF1875B "HTTP/1.1 200 OK"
+2025-10-14 22:09:23,030 - __main__ - INFO - Respuesta XML (primeros 1000 caracteres): <?xml version="1.0" encoding="utf-8"?><consulta_dnp xmlns="http://www.catastro.meh.es/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><control><cudnp>1</cudnp><cucons>6</cucons><cucul>0</cucul></control><bico><bi><idbi><cn>UR</cn><rc><pc1>7952405</pc1><pc2>DF1875B</pc2><car>0001</car><cc1>D</cc1><cc2>R</cc2></rc></idbi><dt><loine><cp>08</cp><cm>123</cm></loine><cmc>122</cmc><np>BARCELONA</np><nm>MOLINS DE REI</nm><locs><lous><lourb><dir><cv>2</cv><tv>CL</tv><nv>MAJOR</nv><pnp>76</pnp><snp>0</snp></dir><loint><es>T</es><pt>OD</pt><pu>OS</pu></loint><dp>08750</dp><dm>1</dm></lourb></lous></locs></dt><ldt>CL MAJOR 76 08750 MOLINS DE REI (BARCELONA)</ldt><debi><luso>Residencial</luso><sfc>660</sfc><cpt>100,000000</cpt><ant>1918</ant></debi></bi><lcons><cons><lcd>COMERCIO</lcd><dt><lourb><loint><es>1</es><pt>00</pt><pu>01</pu></loint></lourb></dt><dfcons><stl>74</stl></dfcons><dvcons><dtip>COMERCIO</dtip></dvcons></cons><cons><lcd>ALMACEN
+2025-10-14 22:11:19,232 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:11:19,245 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Barcelona', 'Numero': '277', 'TipoVia': 'CL', 'NombreVia': 'COMTE BORRELL'}
+2025-10-14 22:11:19,381 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&Numero=277&TipoVia=CL&NombreVia=COMTE+BORRELL "HTTP/1.1 200 OK"
+2025-10-14 22:11:19,382 - __main__ - INFO - Respuesta XML (primeros 1000 caracteres): <?xml version="1.0" encoding="utf-8"?><consulta_dnp xmlns="http://www.catastro.meh.es/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><control><cuerr>1</cuerr></control><lerr><err><cod>43</cod><des>EL NUMERO NO EXISTE</des></err></lerr></consulta_dnp>
+2025-10-14 22:11:22,544 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:11:22,554 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Barcelona', 'Numero': '122', 'TipoVia': 'CL', 'NombreVia': 'ARIBAU'}
+2025-10-14 22:11:22,650 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&Numero=122&TipoVia=CL&NombreVia=ARIBAU "HTTP/1.1 200 OK"
+2025-10-14 22:11:22,651 - __main__ - INFO - Respuesta XML (primeros 1000 caracteres): <?xml version="1.0" encoding="utf-8"?><consulta_dnp xmlns="http://www.catastro.meh.es/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><control><cuerr>1</cuerr></control><lerr><err><cod>43</cod><des>EL NUMERO NO EXISTE</des></err></lerr></consulta_dnp>
+2025-10-14 22:11:27,440 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:11:27,449 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Barcelona', 'Numero': '512', 'TipoVia': 'CL', 'NombreVia': 'BALMES'}
+2025-10-14 22:11:27,668 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&Numero=512&TipoVia=CL&NombreVia=BALMES "HTTP/1.1 200 OK"
+2025-10-14 22:11:27,669 - __main__ - INFO - Respuesta XML (primeros 1000 caracteres): <?xml version="1.0" encoding="utf-8"?><consulta_dnp xmlns="http://www.catastro.meh.es/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><control><cuerr>1</cuerr></control><lerr><err><cod>43</cod><des>EL NUMERO NO EXISTE</des></err></lerr></consulta_dnp>
+2025-10-14 22:12:04,211 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:12:04,224 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Barcelona', 'Numero': '212', 'TipoVia': 'CL', 'NombreVia': 'BALMES'}
+2025-10-14 22:12:04,436 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&Numero=212&TipoVia=CL&NombreVia=BALMES "HTTP/1.1 200 OK"
+2025-10-14 22:12:04,437 - __main__ - INFO - Respuesta XML (primeros 1000 caracteres): <?xml version="1.0" encoding="utf-8"?><consulta_dnp xmlns="http://www.catastro.meh.es/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><control><cuerr>1</cuerr></control><lerr><err><cod>43</cod><des>EL NUMERO NO EXISTE</des></err></lerr></consulta_dnp>
+2025-10-14 22:12:09,022 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:12:09,032 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Barcelona', 'Numero': '210', 'TipoVia': 'CL', 'NombreVia': 'BALMES'}
+2025-10-14 22:12:09,156 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&Numero=210&TipoVia=CL&NombreVia=BALMES "HTTP/1.1 200 OK"
+2025-10-14 22:12:09,157 - __main__ - INFO - Respuesta XML (primeros 1000 caracteres): <?xml version="1.0" encoding="utf-8"?><consulta_dnp xmlns="http://www.catastro.meh.es/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><control><cuerr>1</cuerr></control><lerr><err><cod>43</cod><des>EL NUMERO NO EXISTE</des></err></lerr></consulta_dnp>
+2025-10-14 22:12:12,973 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:12:12,983 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Barcelona', 'Numero': '200', 'TipoVia': 'CL', 'NombreVia': 'BALMES'}
+2025-10-14 22:12:13,303 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&Numero=200&TipoVia=CL&NombreVia=BALMES "HTTP/1.1 200 OK"
+2025-10-14 22:12:13,303 - __main__ - INFO - Respuesta XML (primeros 1000 caracteres): <?xml version="1.0" encoding="utf-8"?><consulta_dnp xmlns="http://www.catastro.meh.es/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><control><cuerr>1</cuerr></control><lerr><err><cod>43</cod><des>EL NUMERO NO EXISTE</des></err></lerr></consulta_dnp>
+2025-10-14 22:14:59,921 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-10-14 22:14:59,922 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2025-10-14 22:14:59,922 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-10-14 22:15:07,938 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:15:07,949 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Barcelona', 'Numero': '200', 'TipoVia': 'CL', 'NombreVia': 'BALMES'}
+2025-10-14 22:15:08,146 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&Numero=200&TipoVia=CL&NombreVia=BALMES "HTTP/1.1 200 OK"
+2025-10-14 22:15:08,146 - __main__ - INFO - Respuesta XML (primeros 1000 caracteres): <?xml version="1.0" encoding="utf-8"?><consulta_dnp xmlns="http://www.catastro.meh.es/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><control><cuerr>1</cuerr></control><lerr><err><cod>43</cod><des>EL NUMERO NO EXISTE</des></err></lerr></consulta_dnp>
+2025-10-14 22:15:12,237 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:15:12,242 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Barcelona', 'TipoVia': 'CL', 'NombreVia': 'BALMES'}
+2025-10-14 22:15:12,519 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES "HTTP/1.1 200 OK"
+2025-10-14 22:15:12,519 - __main__ - INFO - Respuesta XML (primeros 1000 caracteres): <?xml version="1.0" encoding="utf-8"?><consulta_dnp xmlns="http://www.catastro.meh.es/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><control><cuerr>1</cuerr></control><lerr><err><cod>41</cod><des>EL NÚMERO ES OBLIGATORIO.</des></err></lerr></consulta_dnp>
+2025-10-14 22:16:27,295 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:16:27,309 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Barcelona', 'Numero': '199', 'TipoVia': 'CL', 'NombreVia': 'BALMES'}
+2025-10-14 22:16:27,600 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&Numero=199&TipoVia=CL&NombreVia=BALMES "HTTP/1.1 200 OK"
+2025-10-14 22:16:27,601 - __main__ - INFO - Respuesta XML (primeros 1000 caracteres): <?xml version="1.0" encoding="utf-8"?><consulta_dnp xmlns="http://www.catastro.meh.es/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><control><cuerr>1</cuerr></control><lerr><err><cod>43</cod><des>EL NUMERO NO EXISTE</des></err></lerr></consulta_dnp>
+2025-10-14 22:17:00,385 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:17:00,396 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Barcelona', 'Numero': '203', 'TipoVia': 'CL', 'NombreVia': 'BALMES'}
+2025-10-14 22:17:00,657 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&Numero=203&TipoVia=CL&NombreVia=BALMES "HTTP/1.1 200 OK"
+2025-10-14 22:17:00,658 - __main__ - INFO - Respuesta XML (primeros 1000 caracteres): <?xml version="1.0" encoding="utf-8"?><consulta_dnp xmlns="http://www.catastro.meh.es/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><control><cuerr>1</cuerr></control><lerr><err><cod>43</cod><des>EL NUMERO NO EXISTE</des></err></lerr></consulta_dnp>
+2025-10-14 22:17:05,600 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:17:05,610 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Barcelona', 'Numero': '100', 'TipoVia': 'CL', 'NombreVia': 'BALMES'}
+2025-10-14 22:17:05,767 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&Numero=100&TipoVia=CL&NombreVia=BALMES "HTTP/1.1 200 OK"
+2025-10-14 22:17:05,767 - __main__ - INFO - Respuesta XML (primeros 1000 caracteres): <?xml version="1.0" encoding="utf-8"?><consulta_dnp xmlns="http://www.catastro.meh.es/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><control><cuerr>1</cuerr></control><lerr><err><cod>43</cod><des>EL NUMERO NO EXISTE</des></err></lerr></consulta_dnp>
+2025-10-14 22:17:21,113 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:17:21,122 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPRC con parámetros: {'RefCat': '9134308DF2893C'}
+2025-10-14 22:17:21,265 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPRC?RefCat=9134308DF2893C "HTTP/1.1 200 OK"
+2025-10-14 22:17:21,266 - __main__ - INFO - Respuesta XML (primeros 1000 caracteres): <?xml version="1.0" encoding="utf-8"?><consulta_dnp xmlns="http://www.catastro.meh.es/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><control><cudnp>16</cudnp></control><lrcdnp><rcdnp><rc><pc1>9134308</pc1><pc2>DF2893C</pc2><car>0001</car><cc1>B</cc1><cc2>X</cc2></rc><dt><loine><cp>08</cp><cm>19</cm></loine><cmc>900</cmc><np>BARCELONA</np><nm>BARCELONA</nm><locs><lous><lourb><dir><cv>307</cv><tv>CL</tv><nv>BALMES</nv><pnp>203</pnp><snp>0</snp></dir><loint><pt>0</pt><pu>01</pu></loint><dp>08006</dp><dm>5</dm></lourb></lous></locs></dt><debi><luso>Comercial</luso><sfc>266</sfc><cpt>7,320000</cpt><ant>1940</ant></debi></rcdnp><rcdnp><rc><pc1>9134308</pc1><pc2>DF2893C</pc2><car>0002</car><cc1>Z</cc1><cc2>M</cc2></rc><dt><loine><cp>08</cp><cm>19</cm></loine><cmc>900</cmc><np>BARCELONA</np><nm>BARCELONA</nm><locs><lous><lourb><dir><cv>307</cv><tv>CL</tv><nv>BALMES</nv><pnp>203</pnp><snp>0</snp></dir><loint><pt>0</pt><pu>02</pu></loint><dp
+2025-10-14 22:26:50,568 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-10-14 22:26:50,569 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2025-10-14 22:26:50,569 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-10-14 22:27:04,198 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:27:04,206 - __main__ - INFO - Búsqueda inteligente: CL BALMES 200, Barcelona, Barcelona
+2025-10-14 22:27:04,206 - __main__ - INFO - Intento 1: Búsqueda directa con número 200
+2025-10-14 22:27:04,574 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&NombreVia=BALMES&Numero=200&TipoVia=CL "HTTP/1.1 200 OK"
+2025-10-14 22:27:04,575 - __main__ - INFO - Número 200 no existe. Buscando vía...
+2025-10-14 22:27:04,635 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/ConsultaVia?Provincia=Barcelona&Municipio=Barcelona&NombreVia=BALMES&TipoVia=CL "HTTP/1.1 404 Not Found"
+2025-10-14 22:27:04,636 - __main__ - ERROR - Error en búsqueda inteligente: Client error '404 Not Found' for url 'http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/ConsultaVia?Provincia=Barcelona&Municipio=Barcelona&NombreVia=BALMES&TipoVia=CL'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+Traceback (most recent call last):
+  File "/Users/omar/Documents/GitHub/Catastro-MCP/catastro_mcp.py", line 479, in buscar_inmueble_inteligente
+    via_response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/omar/Documents/GitHub/Catastro-MCP/venv/lib/python3.14/site-packages/httpx/_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '404 Not Found' for url 'http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/ConsultaVia?Provincia=Barcelona&Municipio=Barcelona&NombreVia=BALMES&TipoVia=CL'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2025-10-14 22:27:10,433 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:27:10,438 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Barcelona', 'Numero': '200', 'TipoVia': 'CL', 'NombreVia': 'BALMES'}
+2025-10-14 22:27:10,538 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&Numero=200&TipoVia=CL&NombreVia=BALMES "HTTP/1.1 200 OK"
+2025-10-14 22:27:10,538 - __main__ - INFO - Respuesta XML (primeros 1000 caracteres): <?xml version="1.0" encoding="utf-8"?><consulta_dnp xmlns="http://www.catastro.meh.es/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><control><cuerr>1</cuerr></control><lerr><err><cod>43</cod><des>EL NUMERO NO EXISTE</des></err></lerr></consulta_dnp>
+2025-10-14 22:27:20,730 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:27:20,734 - __main__ - INFO - Listando vías en http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/ConsultaVia con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Barcelona', 'TipoVia': 'CL', 'NombreVia': 'BALMES'}
+2025-10-14 22:27:20,814 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/ConsultaVia?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES "HTTP/1.1 404 Not Found"
+2025-10-14 22:27:20,814 - __main__ - ERROR - Error listando vías: Client error '404 Not Found' for url 'http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/ConsultaVia?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+Traceback (most recent call last):
+  File "/Users/omar/Documents/GitHub/Catastro-MCP/catastro_mcp.py", line 646, in listar_numeros_via
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/omar/Documents/GitHub/Catastro-MCP/venv/lib/python3.14/site-packages/httpx/_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '404 Not Found' for url 'http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/ConsultaVia?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2025-10-14 22:31:10,630 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-10-14 22:31:10,630 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2025-10-14 22:31:10,631 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-10-14 22:31:16,940 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:31:16,944 - __main__ - INFO - Búsqueda inteligente: CL BALMES 200, Barcelona, Barcelona
+2025-10-14 22:31:16,944 - __main__ - INFO - Intento 1: Búsqueda directa con número 200
+2025-10-14 22:31:17,357 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&NombreVia=BALMES&Numero=200&TipoVia=CL "HTTP/1.1 200 OK"
+2025-10-14 22:31:17,358 - __main__ - INFO - Número 200 no existe. Probando números cercanos...
+2025-10-14 22:31:17,358 - __main__ - INFO - Probando número 199...
+2025-10-14 22:31:17,479 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=199 "HTTP/1.1 200 OK"
+2025-10-14 22:31:17,479 - __main__ - INFO - Probando número 201...
+2025-10-14 22:31:17,599 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=201 "HTTP/1.1 200 OK"
+2025-10-14 22:31:17,599 - __main__ - INFO - Probando número 198...
+2025-10-14 22:31:17,850 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=198 "HTTP/1.1 200 OK"
+2025-10-14 22:31:17,851 - __main__ - INFO - Probando número 202...
+2025-10-14 22:31:17,968 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=202 "HTTP/1.1 200 OK"
+2025-10-14 22:31:17,970 - __main__ - INFO - Probando número 197...
+2025-10-14 22:31:18,094 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=197 "HTTP/1.1 200 OK"
+2025-10-14 22:31:18,096 - __main__ - INFO - Probando número 203...
+2025-10-14 22:31:18,279 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=203 "HTTP/1.1 200 OK"
+2025-10-14 22:31:18,280 - __main__ - INFO - Probando número 196...
+2025-10-14 22:31:18,403 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=196 "HTTP/1.1 200 OK"
+2025-10-14 22:31:18,405 - __main__ - INFO - Probando número 204...
+2025-10-14 22:31:18,533 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=204 "HTTP/1.1 200 OK"
+2025-10-14 22:31:18,534 - __main__ - INFO - Probando número 195...
+2025-10-14 22:31:18,649 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=195 "HTTP/1.1 200 OK"
+2025-10-14 22:31:18,650 - __main__ - INFO - Probando número 205...
+2025-10-14 22:31:18,802 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=205 "HTTP/1.1 200 OK"
+2025-10-14 22:31:23,540 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:31:23,541 - __main__ - INFO - Listando vías en http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/ConsultaVia con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Barcelona', 'TipoVia': 'CL', 'NombreVia': 'BALMES'}
+2025-10-14 22:31:23,619 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/ConsultaVia?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES "HTTP/1.1 404 Not Found"
+2025-10-14 22:31:23,619 - __main__ - ERROR - Error listando vías: Client error '404 Not Found' for url 'http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/ConsultaVia?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+Traceback (most recent call last):
+  File "/Users/omar/Documents/GitHub/Catastro-MCP/catastro_mcp.py", line 602, in listar_numeros_via
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/omar/Documents/GitHub/Catastro-MCP/venv/lib/python3.14/site-packages/httpx/_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '404 Not Found' for url 'http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/ConsultaVia?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2025-10-14 22:31:58,925 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:31:58,931 - __main__ - INFO - Búsqueda inteligente: CL BALMES 198, Barcelona, Barcelona
+2025-10-14 22:31:58,931 - __main__ - INFO - Intento 1: Búsqueda directa con número 198
+2025-10-14 22:31:59,303 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&NombreVia=BALMES&Numero=198&TipoVia=CL "HTTP/1.1 200 OK"
+2025-10-14 22:31:59,304 - __main__ - INFO - Número 198 no existe. Probando números cercanos...
+2025-10-14 22:31:59,305 - __main__ - INFO - Probando número 197...
+2025-10-14 22:31:59,432 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=197 "HTTP/1.1 200 OK"
+2025-10-14 22:31:59,433 - __main__ - INFO - Probando número 199...
+2025-10-14 22:31:59,792 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=199 "HTTP/1.1 200 OK"
+2025-10-14 22:31:59,793 - __main__ - INFO - Probando número 196...
+2025-10-14 22:31:59,918 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=196 "HTTP/1.1 200 OK"
+2025-10-14 22:31:59,920 - __main__ - INFO - Probando número 200...
+2025-10-14 22:32:00,070 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=200 "HTTP/1.1 200 OK"
+2025-10-14 22:32:00,070 - __main__ - INFO - Probando número 195...
+2025-10-14 22:32:00,224 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=195 "HTTP/1.1 200 OK"
+2025-10-14 22:32:00,226 - __main__ - INFO - Probando número 201...
+2025-10-14 22:32:00,335 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=201 "HTTP/1.1 200 OK"
+2025-10-14 22:32:00,337 - __main__ - INFO - Probando número 194...
+2025-10-14 22:32:00,451 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=194 "HTTP/1.1 200 OK"
+2025-10-14 22:32:00,452 - __main__ - INFO - Probando número 202...
+2025-10-14 22:32:00,567 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=202 "HTTP/1.1 200 OK"
+2025-10-14 22:32:00,569 - __main__ - INFO - Probando número 193...
+2025-10-14 22:32:00,745 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=193 "HTTP/1.1 200 OK"
+2025-10-14 22:32:00,747 - __main__ - INFO - Probando número 203...
+2025-10-14 22:32:00,857 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=203 "HTTP/1.1 200 OK"
+2025-10-14 22:32:04,423 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:32:04,426 - __main__ - INFO - Búsqueda inteligente: CL BALMES 202, Barcelona, Barcelona
+2025-10-14 22:32:04,426 - __main__ - INFO - Intento 1: Búsqueda directa con número 202
+2025-10-14 22:32:04,564 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&NombreVia=BALMES&Numero=202&TipoVia=CL "HTTP/1.1 200 OK"
+2025-10-14 22:32:04,564 - __main__ - INFO - Número 202 no existe. Probando números cercanos...
+2025-10-14 22:32:04,564 - __main__ - INFO - Probando número 201...
+2025-10-14 22:32:04,675 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=201 "HTTP/1.1 200 OK"
+2025-10-14 22:32:04,675 - __main__ - INFO - Probando número 203...
+2025-10-14 22:32:04,940 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=203 "HTTP/1.1 200 OK"
+2025-10-14 22:32:04,940 - __main__ - INFO - Probando número 200...
+2025-10-14 22:32:05,078 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=200 "HTTP/1.1 200 OK"
+2025-10-14 22:32:05,079 - __main__ - INFO - Probando número 204...
+2025-10-14 22:32:05,198 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=204 "HTTP/1.1 200 OK"
+2025-10-14 22:32:05,198 - __main__ - INFO - Probando número 199...
+2025-10-14 22:32:05,305 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=199 "HTTP/1.1 200 OK"
+2025-10-14 22:32:05,307 - __main__ - INFO - Probando número 205...
+2025-10-14 22:32:05,465 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=205 "HTTP/1.1 200 OK"
+2025-10-14 22:32:05,465 - __main__ - INFO - Probando número 198...
+2025-10-14 22:32:05,586 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=198 "HTTP/1.1 200 OK"
+2025-10-14 22:32:05,586 - __main__ - INFO - Probando número 206...
+2025-10-14 22:32:05,698 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=206 "HTTP/1.1 200 OK"
+2025-10-14 22:32:05,699 - __main__ - INFO - Probando número 197...
+2025-10-14 22:32:05,801 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=197 "HTTP/1.1 200 OK"
+2025-10-14 22:32:05,803 - __main__ - INFO - Probando número 207...
+2025-10-14 22:32:05,990 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=207 "HTTP/1.1 200 OK"
+2025-10-14 22:32:09,807 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:32:09,812 - __main__ - INFO - Búsqueda inteligente: CL BALMES 190, Barcelona, Barcelona
+2025-10-14 22:32:09,812 - __main__ - INFO - Intento 1: Búsqueda directa con número 190
+2025-10-14 22:32:09,917 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&NombreVia=BALMES&Numero=190&TipoVia=CL "HTTP/1.1 200 OK"
+2025-10-14 22:32:09,917 - __main__ - INFO - Número 190 no existe. Probando números cercanos...
+2025-10-14 22:32:09,917 - __main__ - INFO - Probando número 189...
+2025-10-14 22:32:10,183 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=189 "HTTP/1.1 200 OK"
+2025-10-14 22:32:10,184 - __main__ - INFO - Probando número 191...
+2025-10-14 22:32:10,292 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=191 "HTTP/1.1 200 OK"
+2025-10-14 22:32:10,293 - __main__ - INFO - Probando número 188...
+2025-10-14 22:32:10,401 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=188 "HTTP/1.1 200 OK"
+2025-10-14 22:32:10,401 - __main__ - INFO - Probando número 192...
+2025-10-14 22:32:10,522 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=192 "HTTP/1.1 200 OK"
+2025-10-14 22:32:10,523 - __main__ - INFO - Probando número 187...
+2025-10-14 22:32:10,707 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=187 "HTTP/1.1 200 OK"
+2025-10-14 22:32:10,708 - __main__ - INFO - Probando número 193...
+2025-10-14 22:32:10,806 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=193 "HTTP/1.1 200 OK"
+2025-10-14 22:32:10,806 - __main__ - INFO - Probando número 186...
+2025-10-14 22:32:10,906 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=186 "HTTP/1.1 200 OK"
+2025-10-14 22:32:10,907 - __main__ - INFO - Probando número 194...
+2025-10-14 22:32:11,008 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=194 "HTTP/1.1 200 OK"
+2025-10-14 22:32:11,009 - __main__ - INFO - Probando número 185...
+2025-10-14 22:32:11,119 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=185 "HTTP/1.1 200 OK"
+2025-10-14 22:32:11,119 - __main__ - INFO - Probando número 195...
+2025-10-14 22:32:11,307 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=195 "HTTP/1.1 200 OK"
+2025-10-14 22:32:18,078 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-14 22:32:18,083 - __main__ - INFO - Búsqueda inteligente: CL BALMES 150, Barcelona, Barcelona
+2025-10-14 22:32:18,083 - __main__ - INFO - Intento 1: Búsqueda directa con número 150
+2025-10-14 22:32:18,220 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&NombreVia=BALMES&Numero=150&TipoVia=CL "HTTP/1.1 200 OK"
+2025-10-14 22:32:18,221 - __main__ - INFO - Número 150 no existe. Probando números cercanos...
+2025-10-14 22:32:18,221 - __main__ - INFO - Probando número 149...
+2025-10-14 22:32:18,328 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=149 "HTTP/1.1 200 OK"
+2025-10-14 22:32:18,328 - __main__ - INFO - Probando número 151...
+2025-10-14 22:32:18,428 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=151 "HTTP/1.1 200 OK"
+2025-10-14 22:32:18,429 - __main__ - INFO - Probando número 148...
+2025-10-14 22:32:18,573 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=148 "HTTP/1.1 200 OK"
+2025-10-14 22:32:18,574 - __main__ - INFO - Probando número 152...
+2025-10-14 22:32:18,681 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=152 "HTTP/1.1 200 OK"
+2025-10-14 22:32:18,682 - __main__ - INFO - Probando número 147...
+2025-10-14 22:32:18,789 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=147 "HTTP/1.1 200 OK"
+2025-10-14 22:32:18,790 - __main__ - INFO - Probando número 153...
+2025-10-14 22:32:18,891 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=153 "HTTP/1.1 200 OK"
+2025-10-14 22:32:18,892 - __main__ - INFO - Probando número 146...
+2025-10-14 22:32:19,002 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=146 "HTTP/1.1 200 OK"
+2025-10-14 22:32:19,002 - __main__ - INFO - Probando número 154...
+2025-10-14 22:32:19,190 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=154 "HTTP/1.1 200 OK"
+2025-10-14 22:32:19,191 - __main__ - INFO - Probando número 145...
+2025-10-14 22:32:19,316 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=145 "HTTP/1.1 200 OK"
+2025-10-14 22:32:19,317 - __main__ - INFO - Probando número 155...
+2025-10-14 22:32:19,421 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES&Numero=155 "HTTP/1.1 200 OK"
+2025-10-15 06:21:42,044 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-10-15 06:21:42,045 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2025-10-15 06:21:42,045 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-10-15 08:00:12,833 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-10-15 08:00:12,834 - mcp.server.lowlevel.server - INFO - Processing request of type ListPromptsRequest
+2025-10-15 08:00:12,834 - mcp.server.lowlevel.server - INFO - Processing request of type ListResourcesRequest
+2025-10-15 08:00:21,032 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-15 08:00:21,035 - __main__ - INFO - Búsqueda inteligente: CL BALMES 200, Barcelona, Barcelona
+2025-10-15 08:00:21,035 - __main__ - INFO - Intento 1: Búsqueda directa con número 200
+2025-10-15 08:00:21,234 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&NombreVia=BALMES&Numero=200&TipoVia=CL "HTTP/1.1 200 OK"
+2025-10-15 08:00:21,235 - __main__ - INFO - Número 200 no existe. Usando ConsultaNumero para obtener candidatos...
+2025-10-15 08:00:21,292 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/ConsultaNumero?Provincia=Barcelona&Municipio=Barcelona&NombreVia=BALMES&Numero=200&TipoVia=CL "HTTP/1.1 404 Not Found"
+2025-10-15 08:00:21,292 - __main__ - ERROR - Error en búsqueda inteligente: Client error '404 Not Found' for url 'http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/ConsultaNumero?Provincia=Barcelona&Municipio=Barcelona&NombreVia=BALMES&Numero=200&TipoVia=CL'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+Traceback (most recent call last):
+  File "/Users/omar/Documents/GitHub/Catastro-MCP/catastro_mcp.py", line 480, in buscar_inmueble_inteligente
+    consulta_response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/omar/Documents/GitHub/Catastro-MCP/venv/lib/python3.14/site-packages/httpx/_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '404 Not Found' for url 'http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/ConsultaNumero?Provincia=Barcelona&Municipio=Barcelona&NombreVia=BALMES&Numero=200&TipoVia=CL'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2025-10-15 08:00:25,761 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-15 08:00:25,763 - __main__ - INFO - Listando vías en http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/ConsultaVia con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Barcelona', 'TipoVia': 'CL', 'NombreVia': 'BALMES'}
+2025-10-15 08:00:25,819 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/ConsultaVia?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES "HTTP/1.1 404 Not Found"
+2025-10-15 08:00:25,819 - __main__ - ERROR - Error listando vías: Client error '404 Not Found' for url 'http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/ConsultaVia?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+Traceback (most recent call last):
+  File "/Users/omar/Documents/GitHub/Catastro-MCP/catastro_mcp.py", line 625, in listar_numeros_via
+    response.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/omar/Documents/GitHub/Catastro-MCP/venv/lib/python3.14/site-packages/httpx/_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '404 Not Found' for url 'http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/ConsultaVia?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404
+2025-10-15 08:00:30,578 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-15 08:00:30,583 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Barcelona', 'Numero': '200', 'TipoVia': 'CL', 'NombreVia': 'BALMES'}
+2025-10-15 08:00:30,723 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&Numero=200&TipoVia=CL&NombreVia=BALMES "HTTP/1.1 200 OK"
+2025-10-15 08:00:30,724 - __main__ - INFO - Respuesta XML (primeros 1000 caracteres): <?xml version="1.0" encoding="utf-8"?><consulta_dnp xmlns="http://www.catastro.meh.es/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><control><cuerr>1</cuerr></control><lerr><err><cod>43</cod><des>EL NUMERO NO EXISTE</des></err></lerr></consulta_dnp>
+2025-10-15 08:00:57,740 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-15 08:00:57,752 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Barcelona', 'Numero': '200', 'TipoVia': 'CL', 'NombreVia': 'BALMES'}
+2025-10-15 08:00:57,954 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&Numero=200&TipoVia=CL&NombreVia=BALMES "HTTP/1.1 200 OK"
+2025-10-15 08:00:57,956 - __main__ - INFO - Respuesta XML (primeros 1000 caracteres): <?xml version="1.0" encoding="utf-8"?><consulta_dnp xmlns="http://www.catastro.meh.es/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><control><cuerr>1</cuerr></control><lerr><err><cod>43</cod><des>EL NUMERO NO EXISTE</des></err></lerr></consulta_dnp>
+2025-10-15 08:01:02,138 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-15 08:01:02,145 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Barcelona', 'TipoVia': 'CL', 'NombreVia': 'BALMES'}
+2025-10-15 08:01:02,281 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES "HTTP/1.1 200 OK"
+2025-10-15 08:01:02,281 - __main__ - INFO - Respuesta XML (primeros 1000 caracteres): <?xml version="1.0" encoding="utf-8"?><consulta_dnp xmlns="http://www.catastro.meh.es/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><control><cuerr>1</cuerr></control><lerr><err><cod>41</cod><des>EL NÚMERO ES OBLIGATORIO.</des></err></lerr></consulta_dnp>
+2025-10-15 08:01:22,383 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-15 08:01:22,396 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Barcelona', 'Numero': '200', 'TipoVia': 'CL', 'NombreVia': 'BALMES'}
+2025-10-15 08:01:22,561 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&Numero=200&TipoVia=CL&NombreVia=BALMES "HTTP/1.1 200 OK"
+2025-10-15 08:01:22,562 - __main__ - INFO - Respuesta XML (primeros 1000 caracteres): <?xml version="1.0" encoding="utf-8"?><consulta_dnp xmlns="http://www.catastro.meh.es/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><control><cuerr>1</cuerr></control><lerr><err><cod>43</cod><des>EL NUMERO NO EXISTE</des></err></lerr></consulta_dnp>
+2025-10-15 08:01:26,578 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-15 08:01:26,586 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Barcelona', 'TipoVia': 'CL', 'NombreVia': 'BALMES'}
+2025-10-15 08:01:26,724 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&TipoVia=CL&NombreVia=BALMES "HTTP/1.1 200 OK"
+2025-10-15 08:01:26,725 - __main__ - INFO - Respuesta XML (primeros 1000 caracteres): <?xml version="1.0" encoding="utf-8"?><consulta_dnp xmlns="http://www.catastro.meh.es/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><control><cuerr>1</cuerr></control><lerr><err><cod>41</cod><des>EL NÚMERO ES OBLIGATORIO.</des></err></lerr></consulta_dnp>
+2025-10-15 08:01:31,233 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-15 08:01:31,242 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Barcelona', 'Numero': '198', 'TipoVia': 'CL', 'NombreVia': 'BALMES'}
+2025-10-15 08:01:31,391 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&Numero=198&TipoVia=CL&NombreVia=BALMES "HTTP/1.1 200 OK"
+2025-10-15 08:01:31,391 - __main__ - INFO - Respuesta XML (primeros 1000 caracteres): <?xml version="1.0" encoding="utf-8"?><consulta_dnp xmlns="http://www.catastro.meh.es/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><control><cuerr>1</cuerr></control><lerr><err><cod>43</cod><des>EL NUMERO NO EXISTE</des></err></lerr></consulta_dnp>
+2025-10-15 08:01:34,979 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-10-15 08:01:34,987 - __main__ - INFO - Consultando http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC con parámetros: {'Provincia': 'Barcelona', 'Municipio': 'Barcelona', 'Numero': '202', 'TipoVia': 'CL', 'NombreVia': 'BALMES'}
+2025-10-15 08:01:35,091 - httpx - INFO - HTTP Request: GET http://ovc.catastro.meh.es/OVCServWeb/OVCWcfCallejero/COVCCallejero.svc/rest/Consulta_DNPLOC?Provincia=Barcelona&Municipio=Barcelona&Numero=202&TipoVia=CL&NombreVia=BALMES "HTTP/1.1 200 OK"
+2025-10-15 08:01:35,091 - __main__ - INFO - Respuesta XML (primeros 1000 caracteres): <?xml version="1.0" encoding="utf-8"?><consulta_dnp xmlns="http://www.catastro.meh.es/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><control><cuerr>1</cuerr></control><lerr><err><cod>43</cod><des>EL NUMERO NO EXISTE</des></err></lerr></consulta_dnp>
